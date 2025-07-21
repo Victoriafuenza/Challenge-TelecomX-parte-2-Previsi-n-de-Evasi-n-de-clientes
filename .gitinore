@@ -1,0 +1,14 @@
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Datos sensibles o pesados
+*.csv
+*.json
+*.xlsx
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+.env
